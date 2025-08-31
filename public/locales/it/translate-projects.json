@@ -1,0 +1,45 @@
+{
+    "projects": {
+    "title": "Progetti",
+    "subtitle": "Una selezione di missioni e consegne chiave."
+  },
+  "roles": {
+    "frontend": "Sviluppatore Frontend",
+    "fullstack": "Sviluppatore Fullstack",
+    "seniorFrontend": "Sviluppatore Frontend Senior"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Classificazione Documenti con IA ed Estrazione di Informazioni Chiave",
+      "summary": "Modulo di suddivisione documenti, riduzione con Context API, aggiornamento Redux + Zustand, ESLint, i18n, audit tecnico completo e roadmap."
+    },
+    "loreal-slide": {
+      "title": "Slide — Automazione dei Protocolli di Test",
+      "summary": "API ASP.NET (SOLID), Swagger, autenticazione MDM/JWT, interfaccia React/Redux, SSO con Azure AD, risultati di microscopia, distribuzione su ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Offerta di Assicurazione Professionale",
+      "summary": "Percorso di sottoscrizione end-to-end, >90% copertura dei test, correzioni SonarQube, debugging in produzione."
+    },
+    "axa-appointment": {
+      "title": "Prenotazione Appuntamenti — Spazio Clienti AXA",
+      "summary": "Flusso completo di prenotazione, migrazione React 15→18, integrazione API, correzioni prestazionali e test."
+    },
+    "ccomptes-pdf": {
+      "title": "Piattaforma di Composizione Report PDF",
+      "summary": "Middleware GraphQL, editor ProseMirror, PagedJS, import/export JSON, CI/CD con Docker/Jenkins."
+    },
+    "retail-ecom": {
+      "title": "Piattaforme di E-commerce",
+      "summary": "Ottimizzazione delle prestazioni, carrello e fidelizzazione, Click & Collect, compatibilità cross-browser, Webpack, collaborazione UX."
+    },
+    "b4finance": {
+      "title": "Automazione Raccolta Fondi e Processi Legali",
+      "summary": "Collegamento investitori con token, sottoscrizione multi-step, tematizzazione Material-UI, debugging e QA."
+    },
+    "kollabee-ngo": {
+      "title": "Piattaforma ONG — Colo Solidaire",
+      "summary": "Registrazione avanzata, RBAC, flussi email con Brevo, API per eliminazione/disattivazione account."
+    }
+  }
+}

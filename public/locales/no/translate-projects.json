@@ -1,0 +1,45 @@
+{
+   "projects": {
+    "title": "Prosjekter",
+    "subtitle": "Et utvalg av oppdrag og viktige leveranser."
+  },
+  "roles": {
+    "frontend": "Frontend-utvikler",
+    "fullstack": "Fullstack-utvikler",
+    "seniorFrontend": "Senior Frontend-utvikler"
+  },
+  "items": {
+    "letxbe": {
+      "title": "AI-dokumentsortering & Nøkkelinformasjonsekstraksjon",
+      "summary": "Modul for dokumentdeling, Context API-reduksjon, Redux-oppgradering + Zustand, ESLint, i18n, full teknisk revisjon & veikart."
+    },
+    "loreal-slide": {
+      "title": "Slide — Automatisering av Testprotokoller",
+      "summary": "ASP.NET-API-er (SOLID), Swagger, MDM/JWT-autentisering, React/Redux UI, Azure AD SSO, mikroskopresultater, ApigeeX-distribusjon."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Profesjonelt Forsikringstilbud",
+      "summary": "End-to-end-abonnementsreise, >90% testdekning, SonarQube-rettelser, feilsøking i produksjon."
+    },
+    "axa-appointment": {
+      "title": "Avtalebooking — AXA Kundeområde",
+      "summary": "Fullt bookingflyt, React 15→18-migrering, API-integrasjon, ytelsesforbedringer og testing."
+    },
+    "ccomptes-pdf": {
+      "title": "Plattform for PDF-rapportkomposisjon",
+      "summary": "GraphQL-mellomvare, ProseMirror-editor, PagedJS, JSON-import/eksport, Docker/Jenkins CI/CD."
+    },
+    "retail-ecom": {
+      "title": "E-handelsplattformer",
+      "summary": "Ytelsesoptimalisering, handlekurv & lojalitet, Click & Collect, cross-browser-kompatibilitet, Webpack, UX-samarbeid."
+    },
+    "b4finance": {
+      "title": "Fundraising & Juridisk Automatisering",
+      "summary": "Investorlink med tokens, flertrinns abonnement, Material-UI-tema, feilsøking & QA."
+    },
+    "kollabee-ngo": {
+      "title": "NGO-plattform — Colo Solidaire",
+      "summary": "Avansert registrering, RBAC, Brevo e-postflyter, API-er for kontosletting/deaktivering."
+    }
+  }
+}

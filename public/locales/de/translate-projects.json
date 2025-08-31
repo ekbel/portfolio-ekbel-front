@@ -1,0 +1,45 @@
+{
+    "projects": {
+    "title": "Projekte",
+    "subtitle": "Eine Auswahl wichtiger Missionen und Lieferungen."
+  },
+  "roles": {
+    "frontend": "Frontend-Entwickler",
+    "fullstack": "Fullstack-Entwickler",
+    "seniorFrontend": "Senior Frontend-Entwickler"
+  },
+  "items": {
+    "letxbe": {
+      "title": "KI-Dokumentensortierung & Schlüsselinformationsextraktion",
+      "summary": "Modul zur Dokumentaufteilung, Context API-Reduzierung, Redux-Upgrade + Zustand, ESLint, i18n, vollständiges technisches Audit & Roadmap."
+    },
+    "loreal-slide": {
+      "title": "Slide — Automatisierung von Testprotokollen",
+      "summary": "ASP.NET-APIs (SOLID), Swagger, MDM/JWT-Authentifizierung, React/Redux-UI, Azure AD SSO, Mikroskopie-Ergebnisse, Bereitstellung mit ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Berufliche Versicherungsangebote",
+      "summary": "End-to-End-Abonnementprozess, >90% Testabdeckung, SonarQube-Korrekturen, Debugging in Produktion."
+    },
+    "axa-appointment": {
+      "title": "Terminbuchung — AXA-Kundenbereich",
+      "summary": "Vollständiger Buchungsablauf, Migration von React 15→18, API-Integration, Leistungsverbesserungen und Tests."
+    },
+    "ccomptes-pdf": {
+      "title": "PDF-Berichtserstellungsplattform",
+      "summary": "GraphQL-Middleware, ProseMirror-Editor, PagedJS, JSON-Import/Export, Docker/Jenkins CI/CD."
+    },
+    "retail-ecom": {
+      "title": "E-Commerce-Plattformen",
+      "summary": "Performance-Optimierung, Warenkorb & Treueprogramm, Click & Collect, Cross-Browser-Kompatibilität, Webpack, UX-Zusammenarbeit."
+    },
+    "b4finance": {
+      "title": "Fundraising- & Rechtsautomatisierung",
+      "summary": "Investorenlink mit Tokens, mehrstufige Anmeldung, Material-UI-Theming, Debugging & QA."
+    },
+    "kollabee-ngo": {
+      "title": "NGO-Plattform — Colo Solidaire",
+      "summary": "Erweiterte Registrierung, RBAC, Brevo-E-Mail-Flows, APIs zur Kontolöschung/-deaktivierung."
+    }
+  }
+}

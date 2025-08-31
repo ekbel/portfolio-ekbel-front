@@ -1,0 +1,45 @@
+{
+    "projects": {
+    "title": "Projecten",
+    "subtitle": "Een selectie van missies en belangrijke leveringen."
+  },
+  "roles": {
+    "frontend": "Frontend Ontwikkelaar",
+    "fullstack": "Fullstack Ontwikkelaar",
+    "seniorFrontend": "Senior Frontend Ontwikkelaar"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Documentclassificatie met AI en Extractie van Kerninformatie",
+      "summary": "Module voor documentindeling, reductie met Context API, updates Redux + Zustand, ESLint, i18n, volledige technische audit en roadmap."
+    },
+    "loreal-slide": {
+      "title": "Slides — Automatisering van Testprotocollen",
+      "summary": "ASP.NET API (SOLID), Swagger, MDM/JWT-authenticatie, React/Redux-interface, SSO met Azure AD, microscopieresultaten, distributie via ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Professionele Verzekeringsaanbieding",
+      "summary": "End-to-end abonnementsproces, >90% testdekking, SonarQube-correcties, productie-debugging."
+    },
+    "axa-appointment": {
+      "title": "Afsprakenplanner — AXA Klantenzone",
+      "summary": "Volledig reserveringsproces, migratie React 15→18, API-integratie, prestatieverbeteringen en testen."
+    },
+    "ccomptes-pdf": {
+      "title": "Platform voor PDF-rapportgeneratie",
+      "summary": "GraphQL-middleware, ProseMirror-editor, PagedJS, import/export JSON, CI/CD met Docker/Jenkins."
+    },
+    "retail-ecom": {
+      "title": "E-commerce Platforms",
+      "summary": "Prestatie-optimalisatie, winkelwagen en loyaliteit, Click & Collect, cross-browser compatibiliteit, Webpack, samenwerking met UX."
+    },
+    "b4finance": {
+      "title": "Automatisering van Fondsenwerving en Juridische Processen",
+      "summary": "Koppeling van investeerders met tokens, meerstapsabonnement, thematisering met Material-UI, debugging en QA."
+    },
+    "kollabee-ngo": {
+      "title": "NGO Platform — Colo Solidaire",
+      "summary": "Geavanceerde registratie, RBAC, e-mailstromen met Brevo, API voor verwijderen/deactiveren van accounts."
+    }
+  }
+}

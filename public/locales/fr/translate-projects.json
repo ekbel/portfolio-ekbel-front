@@ -1,0 +1,45 @@
+{
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Une sélection de missions et de livrables clés."
+  },
+  "roles": {
+    "frontend": "Développeur Front-End",
+    "fullstack": "Développeur Fullstack",
+    "seniorFrontend": "Développeur Front-End Senior"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Tri documentaire IA & extraction d’informations clés",
+      "summary": "Module de découpage documentaire, réduction Context API, upgrade Redux + Zustand, ESLint, i18n, audit technique complet & roadmap."
+    },
+    "loreal-slide": {
+      "title": "Slide — Automatisation des protocoles de test",
+      "summary": "APIs ASP.NET (SOLID), Swagger, auth MDM/JWT, UI React/Redux, SSO Azure AD, résultats de microscopie, déploiement ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Nouvelle offre professionnelle",
+      "summary": "Tunnel de souscription end-to-end, couverture de tests >90 %, corrections SonarQube, debugging production."
+    },
+    "axa-appointment": {
+      "title": "Prise de rendez-vous — Espace Client AXA",
+      "summary": "Parcours complet, migration React 15→18, intégration API, correctifs perf et tests."
+    },
+    "ccomptes-pdf": {
+      "title": "Plateforme de composition de rapports PDF",
+      "summary": "Middleware GraphQL, éditeur ProseMirror, PagedJS, import/export JSON, CI/CD Docker/Jenkins."
+    },
+    "retail-ecom": {
+      "title": "Plateformes e-commerce",
+      "summary": "Optimisation performances, panier & fidélité, Click & Collect, multi-navigateurs, Webpack, collaboration UX."
+    },
+    "b4finance": {
+      "title": "Levées de fonds & automatisation légale",
+      "summary": "Lien investisseur par jetons, souscription multi-étapes, thèmes Material-UI, debugging & QA."
+    },
+    "kollabee-ngo": {
+      "title": "Plateforme ONG — Colo Solidaire",
+      "summary": "Inscription avancée, RBAC, flux mails Brevo, APIs suppression/désactivation de comptes."
+    }
+  }
+}

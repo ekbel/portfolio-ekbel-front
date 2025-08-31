@@ -1,0 +1,45 @@
+{
+  "projects": {
+  "title": "Proyectos",
+  "subtitle": "Una selección de misiones y entregas clave."
+},
+  "roles": {
+    "frontend": "Desarrollador Frontend",
+    "fullstack": "Desarrollador Fullstack",
+    "seniorFrontend": "Desarrollador Frontend Senior"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Clasificación de Documentos con IA y Extracción de Información Clave",
+      "summary": "Módulo de división de documentos, reducción con Context API, actualización de Redux + Zustand, ESLint, i18n, auditoría técnica completa y hoja de ruta."
+    },
+    "loreal-slide": {
+      "title": "Slide — Automatización de Protocolos de Prueba",
+      "summary": "APIs ASP.NET (SOLID), Swagger, autenticación MDM/JWT, interfaz React/Redux, SSO con Azure AD, resultados de microscopía, despliegue en ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Oferta de Seguro Profesional",
+      "summary": "Viaje de suscripción de extremo a extremo, >90% cobertura de pruebas, correcciones con SonarQube, depuración en producción."
+    },
+    "axa-appointment": {
+      "title": "Reserva de Citas — Espacio Cliente AXA",
+      "summary": "Flujo completo de reserva, migración de React 15→18, integración de APIs, correcciones de rendimiento y pruebas."
+    },
+    "ccomptes-pdf": {
+      "title": "Plataforma de Composición de Informes PDF",
+      "summary": "Middleware GraphQL, editor ProseMirror, PagedJS, importación/exportación de JSON, CI/CD con Docker/Jenkins."
+    },
+    "retail-ecom": {
+      "title": "Plataformas de Comercio Electrónico",
+      "summary": "Optimización de rendimiento, carrito y fidelización, Click & Collect, compatibilidad entre navegadores, Webpack, colaboración en UX."
+    },
+    "b4finance": {
+      "title": "Automatización de Recaudación de Fondos y Legal",
+      "summary": "Enlace de inversores con tokens, suscripción en múltiples pasos, tematización con Material-UI, depuración y QA."
+    },
+    "kollabee-ngo": {
+      "title": "Plataforma ONG — Colo Solidaire",
+      "summary": "Registro avanzado, RBAC, flujos de correo electrónico con Brevo, APIs para eliminación/desactivación de cuentas."
+    }
+  }
+}

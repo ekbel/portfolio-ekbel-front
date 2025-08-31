@@ -1,0 +1,45 @@
+{
+    "projects": {
+    "title": "Projekty",
+    "subtitle": "Wybór kluczowych misji i realizacji."
+  },
+  "roles": {
+    "frontend": "Programista Frontend",
+    "fullstack": "Programista Fullstack",
+    "seniorFrontend": "Starszy Programista Frontend"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Klasyfikacja Dokumentów za pomocą AI i Ekstrakcja Kluczowych Informacji",
+      "summary": "Moduł podziału dokumentów, redukcja z Context API, aktualizacje Redux + Zustand, ESLint, i18n, pełny audyt techniczny i roadmapa."
+    },
+    "loreal-slide": {
+      "title": "Slajdy — Automatyzacja Protokołów Testowych",
+      "summary": "API ASP.NET (SOLID), Swagger, uwierzytelnianie MDM/JWT, interfejs React/Redux, SSO z Azure AD, wyniki mikroskopii, dystrybucja na ApigeeX."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Oferta Ubezpieczenia Zawodowego",
+      "summary": "Proces subskrypcji end-to-end, >90% pokrycia testami, poprawki SonarQube, debugowanie produkcji."
+    },
+    "axa-appointment": {
+      "title": "Rezerwacja Wizyt — Strefa Klienta AXA",
+      "summary": "Pełny przepływ rezerwacji, migracja React 15→18, integracja API, poprawki wydajności i testy."
+    },
+    "ccomptes-pdf": {
+      "title": "Platforma do Tworzenia Raportów PDF",
+      "summary": "Middleware GraphQL, edytor ProseMirror, PagedJS, import/eksport JSON, CI/CD z Docker/Jenkins."
+    },
+    "retail-ecom": {
+      "title": "Platformy E-commerce",
+      "summary": "Optymalizacja wydajności, koszyk i lojalność, Click & Collect, zgodność między przeglądarkami, Webpack, współpraca z UX."
+    },
+    "b4finance": {
+      "title": "Automatyzacja Zbiórek i Procesów Prawnych",
+      "summary": "Łączenie inwestorów z tokenami, wieloetapowa subskrypcja, tematowanie Material-UI, debugowanie i QA."
+    },
+    "kollabee-ngo": {
+      "title": "Platforma NGO — Colo Solidaire",
+      "summary": "Zaawansowana rejestracja, RBAC, przepływy e-mail z Brevo, API do usuwania/dezaktywacji kont."
+    }
+  }
+}

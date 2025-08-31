@@ -1,0 +1,45 @@
+{
+    "projects": {
+    "title": "Projeler",
+    "subtitle": "Önemli görevler ve teslimatların bir seçkisi."
+  },
+  "roles": {
+    "frontend": "Frontend Geliştirici",
+    "fullstack": "Fullstack Geliştirici",
+    "seniorFrontend": "Kıdemli Frontend Geliştirici"
+  },
+  "items": {
+    "letxbe": {
+      "title": "Yapay Zeka ile Belge Sınıflandırma ve Temel Bilgi Çıkarma",
+      "summary": "Belge ayırma modülü, Context API ile azaltma, Redux + Zustand güncellemeleri, ESLint, i18n, tam teknik denetim ve yol haritası."
+    },
+    "loreal-slide": {
+      "title": "Slaytlar — Test Protokollerinin Otomasyonu",
+      "summary": "ASP.NET API (SOLID), Swagger, MDM/JWT kimlik doğrulama, React/Redux arayüzü, Azure AD ile SSO, mikroskopi sonuçları, ApigeeX üzerinde dağıtım."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Profesyonel Sigorta Teklifi",
+      "summary": "Uçtan uca abonelik süreci, %90+ test kapsama oranı, SonarQube düzeltmeleri, üretimde hata ayıklama."
+    },
+    "axa-appointment": {
+      "title": "Randevu Rezervasyonu — AXA Müşteri Alanı",
+      "summary": "Tam rezervasyon akışı, React 15→18 geçişi, API entegrasyonu, performans düzeltmeleri ve testler."
+    },
+    "ccomptes-pdf": {
+      "title": "PDF Rapor Oluşturma Platformu",
+      "summary": "GraphQL ara katmanı, ProseMirror editörü, PagedJS, JSON içe/dışa aktarma, Docker/Jenkins ile CI/CD."
+    },
+    "retail-ecom": {
+      "title": "E-ticaret Platformları",
+      "summary": "Performans optimizasyonu, sepet ve sadakat, Click & Collect, tarayıcılar arası uyumluluk, Webpack, UX işbirliği."
+    },
+    "b4finance": {
+      "title": "Fon Toplama ve Hukuki Süreçlerin Otomasyonu",
+      "summary": "Yatırımcıların token ile bağlantısı, çok adımlı abonelik, Material-UI ile temalaştırma, hata ayıklama ve QA."
+    },
+    "kollabee-ngo": {
+      "title": "STK Platformu — Colo Solidaire",
+      "summary": "Gelişmiş kayıt, RBAC, Brevo ile e-posta akışları, hesap silme/devre dışı bırakma için API."
+    }
+  }
+}

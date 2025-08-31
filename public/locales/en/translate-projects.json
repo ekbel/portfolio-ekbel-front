@@ -1,0 +1,47 @@
+{
+  
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of missions and key deliveries."
+  },
+
+  "roles": {
+    "frontend": "Frontend Developer",
+    "fullstack": "Fullstack Developer",
+    "seniorFrontend": "Senior Front-End Developer"
+  },
+  "items": {
+    "letxbe": {
+      "title": "AI Document Sorting & Key Info Extraction",
+      "summary": "Document-splitting module, Context API reduction, Redux upgrade + Zustand, ESLint, i18n, full technical audit & roadmap."
+    },
+    "loreal-slide": {
+      "title": "Slide — Test Protocol Automation",
+      "summary": "ASP.NET APIs (SOLID), Swagger, MDM/JWT auth, React/Redux UI, Azure AD SSO, microscopy results, ApigeeX deployment."
+    },
+    "axa-pjpro": {
+      "title": "PJ Pro — Pro Insurance Offer",
+      "summary": "End-to-end subscription journey, >90% test coverage, SonarQube fixes, production debugging."
+    },
+    "axa-appointment": {
+      "title": "Appointment Booking — AXA Client Space",
+      "summary": "Full booking flow, React 15→18 migration, API integration, performance fixes and testing."
+    },
+    "ccomptes-pdf": {
+      "title": "PDF Report Composition Platform",
+      "summary": "GraphQL middleware, ProseMirror editor, PagedJS, JSON import/export, Docker/Jenkins CI/CD."
+    },
+    "retail-ecom": {
+      "title": "E-commerce Platforms",
+      "summary": "Performance optimization, cart & loyalty, Click & Collect, cross-browser, Webpack, UX collaboration."
+    },
+    "b4finance": {
+      "title": "Fundraising & Legal Automation",
+      "summary": "Investor link with tokens, multi-step subscription, Material-UI theming, debugging & QA."
+    },
+    "kollabee-ngo": {
+      "title": "NGO Platform — Colo Solidaire",
+      "summary": "Advanced signup, RBAC, Brevo email flows, account deletion/disable APIs."
+    }
+  }
+}
