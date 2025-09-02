@@ -1,19 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-:root{--brand:#800020}.btn{@apply inline-flex items-center gap-2 rounded-xl px-4 py-2 border border-neutral-200 shadow-sm hover:shadow transition}.btn-brand{@apply bg-[var(--brand)] text-white hover:opacity-90}.card{@apply rounded-2xl border border-neutral-200 p-5 bg-white shadow-sm}
 
-@keyframes scroll-x {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
+
+:root { --brand: #800020; }
+
+
+.btn { @apply inline-flex items-center gap-2 rounded-xl px-4 py-2 border border-neutral-200 shadow-sm hover:shadow transition; }
+.btn-brand { @apply bg-[var(--brand)] text-white hover:opacity-90; }
+.card { @apply rounded-2xl border border-neutral-200 p-5 bg-white shadow-sm; }
+
+
+@keyframes scroll-x { 0% { transform: translateX(0%);} 100% { transform: translateX(-50%);} }
+
+
+/* Respect des réglages accessibilité */
+@media (prefers-reduced-motion: reduce) {
+.animate-scroll-x { animation: none !important; }
 }
 
-.animate-scroll-x {
-  display: flex;
-  animation: scroll-x 20s linear infinite;
-  width: max-content;
-}
+
+.animate-scroll-x { display: flex; animation: scroll-x 20s linear infinite; width: max-content; }

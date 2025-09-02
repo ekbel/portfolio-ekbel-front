@@ -32,6 +32,7 @@ export default function ProjectCard({ item }) {
               key={l.href}
               href={l.href}
               target="_blank"
+              rel="noopener noreferrer"
               className="text-[var(--brand)] underline text-sm"
             >
               {l.label}
